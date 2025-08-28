@@ -13,6 +13,7 @@ for x in thislist:
   for i in range(len(thislist)):
       print(thislist[i])
 
+
   #while loop
       print("while looping")
       i = 0
