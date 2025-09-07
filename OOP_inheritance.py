@@ -42,6 +42,8 @@ class Cat(Animal):
 
 # Create objects
 dog = Dog("Buddy")
+
+
 cat = Cat("Whiskers")
 
 # Use inherited and overridden methods
