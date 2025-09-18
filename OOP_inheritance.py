@@ -35,6 +35,7 @@ class Dog(Animal):
     def speak(self):
         print(f"{self.name} barks.")
 
+
 # Another child class
 class Cat(Animal):
     def speak(self):
@@ -42,7 +43,6 @@ class Cat(Animal):
 
 # Create objects
 dog = Dog("Buddy")
-
 
 cat = Cat("Whiskers")
 
