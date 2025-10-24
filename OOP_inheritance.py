@@ -39,11 +39,15 @@ class Cat(Animal):
     def speak(self):
         print(f"{self.name} meows.")
 
+        
+
 # Create objects
 dog = Dog("Buddy")
+
     
 cat = Cat("Whiskers")
 
 # Use inherited and overridden methods
 dog.speak()   # Output: Buddy barks.
 cat.speak()   # Output: Whiskers meows.
+q
