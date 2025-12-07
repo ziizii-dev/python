@@ -37,6 +37,8 @@ class Dog(Animal):
 # Another child class
 class Cat(Animal):
     def speak(self):
+
+        
         print(f"{self.name} meows.")
 
         
