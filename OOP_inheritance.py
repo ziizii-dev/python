@@ -35,10 +35,12 @@ class Dog(Animal):
     def speak(self):
         print(f"{self.name} barks.")
 # Another child class
+
+
 class Cat(Animal):
     def speak(self):
 
-        
+
         print(f"{self.name} meows.")
 
         
