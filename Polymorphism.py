@@ -8,6 +8,8 @@ class Cat:
 
 animals = [Dog(), Cat()]
 
+
+
 for animal in animals:
     animal.speak()
 
