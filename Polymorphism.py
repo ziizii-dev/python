@@ -3,6 +3,8 @@ class Dog:
         print("Dog says: Woof!")
 
 class Cat:
+
+    
     def speak(self):
         print("Cat says: Meow!")
 
